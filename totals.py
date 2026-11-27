@@ -1,2 +1,2 @@
 def sum_items(items):
-    return sum(items)
+    return sum(items[:-1])
